@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\aplicacionwinforms\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\frmdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\aplicacionwinforms\\frmdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\aplicacionwinforms\\frmmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\frmmaster.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmmaster.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\frmmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\frmdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\frmdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\datamemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\datamemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\controllers\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\controllers\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\repositoris\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\repositoris\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\model\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\model\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\aplicacionwinforms\\aplicacionwinforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0DB1880-9608-4011-97C0-78EE71401F43}|AplicacionWinforms\\AplicacionWinforms.csproj|solutionrelative:aplicacionwinforms\\aplicacionwinforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27BCB74-715E-4D69-9534-F8CB11DD3BFE}|ClienteREST\\ClienteREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\clienterest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27BCB74-715E-4D69-9534-F8CB11DD3BFE}|ClienteREST\\ClienteREST.csproj|solutionrelative:clienterest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27BCB74-715E-4D69-9534-F8CB11DD3BFE}|ClienteREST\\ClienteREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\clienterest\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27BCB74-715E-4D69-9534-F8CB11DD3BFE}|ClienteREST\\ClienteREST.csproj|solutionrelative:clienterest\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\apirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\apirest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|c:\\users\\usuario\\downloads\\apirest\\apirest\\apirest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E4C77E8-E186-4162-9231-284E8F56BF0D}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\ApiREST.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiREST\\ApiREST.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\Program.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\Program.cs",
+              "RelativeToolTip": "AplicacionWinforms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:01:10.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMDI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMDI.Designer.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmMDI.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMDI.Designer.cs",
+              "RelativeToolTip": "AplicacionWinforms\\FrmMDI.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDetail.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmDetail.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmDetail.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmDetail.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionWinforms\\FrmDetail.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:49.863Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMDI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMDI.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmMDI.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMDI.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionWinforms\\FrmMDI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:29.366Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDetail.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmDetail.Designer.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmDetail.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmDetail.Designer.cs",
+              "RelativeToolTip": "AplicacionWinforms\\FrmDetail.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:00:32.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMaster.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMaster.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmMaster.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMaster.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionWinforms\\FrmMaster.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:51.428Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMDI.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmMDI.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMDI.cs",
+              "RelativeToolTip": "AplicacionWinforms\\FrmMDI.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMaster.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMaster.Designer.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmMaster.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMaster.Designer.cs",
+              "RelativeToolTip": "AplicacionWinforms\\FrmMaster.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:13:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMaster.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmMaster.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmMaster.cs",
+              "RelativeToolTip": "AplicacionWinforms\\FrmMaster.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmDetail.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\FrmDetail.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\FrmDetail.cs",
+              "RelativeToolTip": "AplicacionWinforms\\FrmDetail.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:57:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataMemory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\DataMemory.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\DataMemory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\DataMemory.cs",
+              "RelativeToolTip": "AplicacionWinforms\\DataMemory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:21:57.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\ContactModel.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\ContactModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\ContactModel.cs",
+              "RelativeToolTip": "AplicacionWinforms\\ContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:02:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\ApiClient.cs",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\ApiClient.cs",
+              "RelativeToolTip": "AplicacionWinforms\\ApiClient.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:33:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Program.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Program.cs",
+              "RelativeToolTip": "ApiREST\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:33:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Controllers\\UserCredentials.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\UserCredentials.cs",
+              "RelativeToolTip": "ApiREST\\Controllers\\UserCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:55:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "ApiREST\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:28:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Repositoris\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Repositoris\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Repositoris\\LibroRepository.cs",
+              "RelativeToolTip": "ApiREST\\Repositoris\\LibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:48:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Model\\Libro.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Model\\Libro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Model\\Libro.cs",
+              "RelativeToolTip": "ApiREST\\Model\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:36:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApiREST\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:00:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\TokenService.cs",
+              "RelativeDocumentMoniker": "ApiREST\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\TokenService.cs",
+              "RelativeToolTip": "ApiREST\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:31:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ApiREST\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\WeatherForecast.cs",
+              "RelativeToolTip": "ApiREST\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:31:20.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AplicacionWinforms.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\AplicacionWinforms.csproj",
+              "RelativeDocumentMoniker": "AplicacionWinforms\\AplicacionWinforms.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\AplicacionWinforms\\AplicacionWinforms.csproj",
+              "RelativeToolTip": "AplicacionWinforms\\AplicacionWinforms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T11:56:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ClienteREST\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteREST\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ClienteREST\\Program.cs",
+              "RelativeToolTip": "ClienteREST\\Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAuwDQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:24:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ClienteREST\\Libro.cs",
+              "RelativeDocumentMoniker": "ClienteREST\\Libro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ClienteREST\\Libro.cs",
+              "RelativeToolTip": "ClienteREST\\Libro.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:31:21.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiREST\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:55:25.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiREST\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:28:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiREST.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\ApiREST.csproj",
+              "RelativeDocumentMoniker": "ApiREST\\ApiREST.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\ApiREST.csproj",
+              "RelativeToolTip": "ApiREST\\ApiREST.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T18:30:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiREST\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\appsettings.json",
+              "RelativeToolTip": "ApiREST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T09:31:20.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Services\\LibroService.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Services\\LibroService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Services\\LibroService.cs",
+              "RelativeToolTip": "ApiREST\\Services\\LibroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:50:05.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiREST\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiREST\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T17:46:44.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiREST\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\appsettings.Development.json",
+              "RelativeToolTip": "ApiREST\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T09:31:20.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiREST.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\ApiREST.csproj.user",
+              "RelativeDocumentMoniker": "ApiREST\\ApiREST.csproj.user",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ApiREST\\ApiREST\\ApiREST\\ApiREST.csproj.user",
+              "RelativeToolTip": "ApiREST\\ApiREST.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-05T09:31:20.364Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1240,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

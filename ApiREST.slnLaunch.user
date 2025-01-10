@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ApiREST\\ApiREST.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AplicacionWinforms\\AplicacionWinforms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
