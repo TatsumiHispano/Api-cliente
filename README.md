@@ -3,6 +3,7 @@ Si quieres ejecutar el programa primero de todo tienes que saber que el usuario 
 Por ultimo tienes que saber que el programa esta vinculado a una base de datos tendras que cambiar el json y poner
 el enlace a tu base de datos te recomiendo hacerla en heidiSQl y la activacion de sql te recomiendo descargar xampp 
 la base de datos tiene tres atributos el id que tiene que ser auto incrementado(el id es auto incrementado porque cuando el usario borra un titulo con id 2 el titulo con id 3 pasara a la posicion 2) , el titulo y el autor
+
 ApiREST: El Servidor y la Lógica de Negocio
 La solución ApiREST se encarga de proporcionar una API RESTful para gestionar libros en una base de datos. Esta API está desarrollada con ASP.NET Core, y proporciona una interfaz para realizar operaciones como crear, leer, actualizar y eliminar libros de una base de datos a través de solicitudes HTTP.
 
