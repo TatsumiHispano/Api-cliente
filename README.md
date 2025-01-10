@@ -1,7 +1,7 @@
 DATOS IMPORTANTES:
 Si quieres ejecutar el programa primero de todo tienes que saber que el usuario es david y la contraseña es 1234
 Por ultimo tienes que saber que el programa esta vinculado a una base de datos tendras que cambiar el json y poner
-el enlace a tu base de datos te recomiendo hacerla en heidiSQl y la activacion de sql te recomiendo descargar xampp 
+la ruta a tu base de datos te recomiendo hacerla en heidiSQl y la activacion de sql te recomiendo descargar xampp 
 la base de datos tiene tres atributos el id que tiene que ser auto incrementado(el id es auto incrementado porque cuando el usario borra un titulo con id 2 el titulo con id 3 pasara a la posicion 2) , el titulo y el autor.
 
 Recuerda para ejecutar este proyecto te recomiendo visual studio cuando lo hayas puesto tiene que ir a la solucion principal ir a propiedades y darle a la opcion de varios proyecto de inicio para que asi el la base de datos y el cliente se ejecute a la vez.
